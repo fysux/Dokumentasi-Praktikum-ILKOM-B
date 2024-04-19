@@ -2,7 +2,7 @@
 
 ## untuk sebagai dokumentasi praktikum pertemuan 1 silahkan dibaca file ini
 
-'''
+```
 #include<iostream>
 using namespace std;
 
@@ -14,4 +14,4 @@ int main(){
     
     cout << "Halo, " << nama << endl;
 }
-'''
+```
